@@ -1562,6 +1562,15 @@
     "repo": "https://github.com/bodil/purescript-smolder.git",
     "version": "v11.0.0"
   },
+  "simplecrypto": {
+    "dependencies": [
+      "maybe",
+      "node-buffer",
+      "prelude"
+    ],
+    "repo": "https://github.com/alpacaaa/purescript-simplecrypto.git",
+    "version": "v1.0.1"
+  },
   "spec": {
     "dependencies": [
       "aff",
