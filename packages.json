@@ -1548,6 +1548,16 @@
     "repo": "https://github.com/justinwoo/purescript-simple-json.git",
     "version": "v4.1.0"
   },
+  "simple-repl": {
+    "dependencies": [
+      "console",
+      "aff",
+      "node-readline",
+      "prelude"
+    ],
+    "repo": "https://github.com/Thimoteus/purescript-simple-repl",
+    "version": "v6.0.1"
+  },
   "smolder": {
     "dependencies": [
       "bifunctors",
@@ -1561,6 +1571,15 @@
     ],
     "repo": "https://github.com/bodil/purescript-smolder.git",
     "version": "v11.0.0"
+  },
+  "simplecrypto": {
+    "dependencies": [
+      "maybe",
+      "node-buffer",
+      "prelude"
+    ],
+    "repo": "https://github.com/alpacaaa/purescript-simplecrypto.git",
+    "version": "v1.0.1"
   },
   "spec": {
     "dependencies": [
